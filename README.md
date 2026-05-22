@@ -4,14 +4,14 @@
 
 ---
 
-## 🚀 What is This Repository?
+##  What is This Repository?
 
 Welcome! This is your **Lab 0 starter repository** for CPAN-228. Here you'll learn:
 - How to use GitHub and Git professionally
 - How to submit your work via Pull Requests
 
 By the end of Lab 0, you'll have:
-- ✅ Created your first GitHub pull request for the class
+- Created your first GitHub pull request for the class
 
 **Time Estimate:** 15 min
 **Difficulty:** Beginner (first time? follow step-by-step!)
@@ -32,10 +32,10 @@ Learn the GitHub workflow:
 ---
 
 ## 📁 Repository Contents
-📦 welcome-cpan252-lab0
+📦 welcome-cpan228-lab0
 
 ├── README.md ← You are here!
 
 ├── STUDENT_SUBMISSIONS.md ← Add your name here (Part 1)
 
-├── GITHUB_CHEATSHEET.md ← Quick guide and best practices 
+├── GITHUB_CHEAT_SHEET.md ← Quick guide and best practices 

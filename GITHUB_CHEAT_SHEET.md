@@ -1,4 +1,4 @@
-# 🚀 Springbrook Web Dev: Assignments Workflow
+# CPAN-228 Web Application Development: Assignments Workflow
 
 Follow these steps every time you start a new assignment to ensure your code is organized and you are following professional industry standards.
 
