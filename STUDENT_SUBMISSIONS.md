@@ -102,12 +102,11 @@ After the PR is merged, you're officially done with Lab 0! ✅
 - **Branch name** should use your full name (e.g., firstname-lastname)
 - **Keep main branch clean**—always do your work on your personal branch
 
-
 ---
 
 ## Student Roster
 
-| # | Name | Student ID | GitHub Username | Humber Email | Lab 0 Complete | Group Name |
-|---|---|---|---|---|---|---|
-| 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
-
+| #   | Name              | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
+| --- | ----------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
+| 0   | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A]      |
+| #   | Anthony, Murphy   | [N00771201]   | @awrmurphy      | mrpn0073@humber.ca            | [🌊] Completed | [N/A]      |
