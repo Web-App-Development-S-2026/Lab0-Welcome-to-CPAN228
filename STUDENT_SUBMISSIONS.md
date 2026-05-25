@@ -110,4 +110,5 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | # | Name | Student ID | GitHub Username | Humber Email | Lab 0 Complete | Group Name |
 |---|---|---|---|---|---|---|
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
+| 0 | Scott, Woodhouse  | [N01774081]   | @WoodShack      | n01774081@humber.ca           | [🔥] Completed | [New Group 14] |
 
