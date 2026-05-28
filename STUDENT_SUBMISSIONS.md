@@ -121,4 +121,5 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 8 | Chaves, Samuel   | [N01771143]   | @Samuuca1      | N01771143@humber.ca            | [⚡] Completed | [Group 7]      |
 | 9 | Daniel, Gardiner | [N01773473] | @dangardiner90 | n01773473@student.humber.ca | [🔥] Completed | [N/A] |
 | 10 | Scott, Woodhouse  | [N01774081]   | @WoodShack      | n01774081@humber.ca           | [🔥] Completed | [New Group 14] |
+| 11 | Lisa, Tarnow | [N00233140] | @LisaTarn | trnl0207@humber.ca | [✅] Completed | [N/A] |
 
