@@ -111,9 +111,6 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | #   | Name              | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
 | --- | ----------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
-<<<<<<< olamide-ilesanmi
-| 1 | Samuel, Ilesanmi  | [N01666340]   | @Khrisdain      | N01666340@humber.ca           | [🔥] Completed | [Group 12] |
-=======
 | 1 | Hudson, Alton     | [N01773328]   | @altonhudson    | n01773328@humber.ca           | ✅ Completed   | [N/A] |
 | 2 | Bonora, Michael | [N01205927] | @MichaelAB73 | n01205927@humber.ca | [🔥] Completed | [14] |
 | 3 | Beyza, Yigitoglu | [N01733699] | @beyzay | n01733699@humber.ca | [🔥] Completed | [N/A] |
@@ -125,5 +122,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 9 | Daniel, Gardiner | [N01773473] | @dangardiner90 | n01773473@student.humber.ca | [🔥] Completed | [N/A] |
 | 10 | Scott, Woodhouse  | [N01774081]   | @WoodShack      | n01774081@humber.ca           | [🔥] Completed | [New Group 14] |
 | 11 | Lisa, Tarnow | [N00233140] | @LisaTarn | trnl0207@humber.ca | [✅] Completed | [N/A] |
-
->>>>>>> main
+| 12 | Samuel, Ilesanmi  | [N01666340]   | @Khrisdain      | N01666340@humber.ca           | [🔥] Completed | [Group 12] |
