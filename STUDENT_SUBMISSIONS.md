@@ -6,6 +6,8 @@ Welcome! Follow these instructions to complete Lab 0 and submit your work.
 
 ## Step-by-Step Instructions
 
+### Step 0: Fork this repo
+
 ### Step 1: Clone the Repository and Pull Latest Changes from Main
 
 First, make sure you have the latest version of the code from the main branch:
