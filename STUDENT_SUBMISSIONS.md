@@ -6,6 +6,8 @@ Welcome! Follow these instructions to complete Lab 0 and submit your work.
 
 ## Step-by-Step Instructions
 
+### Step 0: Fork this repo
+
 ### Step 1: Clone the Repository and Pull Latest Changes from Main
 
 First, make sure you have the latest version of the code from the main branch:
@@ -102,7 +104,6 @@ After the PR is merged, you're officially done with Lab 0! ✅
 - **Branch name** should use your full name (e.g., firstname-lastname)
 - **Keep main branch clean**—always do your work on your personal branch
 
-
 ---
 
 ## Student Roster
@@ -111,3 +112,7 @@ After the PR is merged, you're officially done with Lab 0! ✅
 |---|---|---|---|---|---|---|
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
 | 1 | Bonora, Michael | [N01205927] | @MichaelAB73 | n01205927@humber.ca | [🔥] Completed | [14] |
+| 2 | Beyza, Yigitoglu | [N01733699] | @beyzay | n01733699@humber.ca | [🔥] Completed | [N/A] |
+| 3 | Svetlozara, Godzheva | [N01754024] | @svetlozara-godzheva | n01754024@humber.ca | [✅] Completed | [N/A] |
+| 4 | Dugh, Garv | N01763558 | @n01763558GarvDugh | n01763558@humber.ca | ✅ Completed | |
+| 5 | Huynh Khoa, Le    | [N01768983]   | @benjaminkle    | n01768983@humber.ca           | [✅] Completed | [N/A]      |
