@@ -123,3 +123,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 10 | Scott, Woodhouse  | [N01774081]   | @WoodShack      | n01774081@humber.ca           | [🔥] Completed | [New Group 14] |
 | 11 | Lisa, Tarnow | [N00233140] | @LisaTarn | trnl0207@humber.ca | [✅] Completed | [N/A] |
 | 12 | Samuel, Ilesanmi  | [N01666340]   | @Khrisdain      | N01666340@humber.ca           | [🔥] Completed | [Group 12] |
+| 13 | (Yen) Vy, Thieu | [N01687477] | @YenVyThieu | n01687477@humber.ca | ✅ Completed | [Group 4] |
