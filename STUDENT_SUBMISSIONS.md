@@ -168,3 +168,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 54 | Bray-Telesford, Shacquile | N01573423 | @sirphrost | n01573423@humbermail.ca | âœ… Completed | N/A |
 | 55 | Bernardino, Princess Krish Anne | [N01708883] | @pbxcess | N01708883@humber.ca | [❤️‍🔥] Completed | [Group 3] | it |
 | 56 | Singh, Kanwarnoor | [N01718128] | @kanwarnnoorsingh95 | n01718128@humber.ca | [✅] Completed | [Group 5] |
+| 57 | Myhal, Lukas | [N01776178] | @Rococcoon | n01776178@humber.ca | [x] Completed | [Group 01] |
