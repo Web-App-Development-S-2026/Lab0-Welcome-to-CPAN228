@@ -164,3 +164,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 50 | Lisa, Tarnow | [N00233140] | @LisaTarn | trnl0207@humber.ca | [âœ…] Completed | [N/A] |
 | 51 | Samuel, Ilesanmi | [N01666340] | @Khrisdain | N01666340@humber.ca | [ðŸ”¥] Completed | [Group 12] |
 | 52 | Raza, Moteen | [N01046201] | @moteenraza07 | N01046201@humber.ca | [ðŸ”¥] Completed | [Group 5] |
+| 53 | Kaur, Kirandeep | N01722571 | @Kirandeepkaur8 | n01722571@students.humber.ca | âœ… Completed | N/A |
