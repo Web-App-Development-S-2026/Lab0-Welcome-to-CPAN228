@@ -169,3 +169,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 55 | Bernardino, Princess Krish Anne | [N01708883] | @pbxcess | N01708883@humber.ca | [❤️‍🔥] Completed | [Group 3] | it |
 | 56 | Singh, Kanwarnoor | [N01718128] | @kanwarnnoorsingh95 | n01718128@humber.ca | [✅] Completed | [Group 5] |
 | 57 | Myhal, Lukas | [N01776178] | @Rococcoon | n01776178@humber.ca | [x] Completed | [Group 01] |
+| 58 | Jodian, Kennedy | [N01358951] | @KennedyJodian | N01358951@students.humber.ca | [🔥] Completed | [Group 12] |
