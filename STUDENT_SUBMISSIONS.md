@@ -184,3 +184,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 70 | Lisa, Tarnow | [N00233140] | @LisaTarn | trnl0207@humber.ca | [✅] Completed | [N/A] |
 | 71 | Samuel, Ilesanmi | [N01666340] | @Khrisdain | N01666340@humber.ca | [🔥] Completed | [Group 12] |
 | 72 | Sasmaz, Murat | [N01756120] | @MuratSasmaz | n01756120@humber.ca | [✅] Completed | [N/A] |
+| 73 | Harrak, Nour | [N01154202] | @Nour4896 | n01154202@humber.ca | [🐧] Completed | Group 11 |
