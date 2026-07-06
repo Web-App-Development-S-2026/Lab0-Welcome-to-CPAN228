@@ -111,83 +111,40 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | #   | Name              | Student ID    | GitHub Username | Humber Email                  | Lab 0 Complete | Group Name |
 | --- | ----------------- | ------------- | --------------- | ----------------------------- | -------------- | ---------- |
 | 0 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
-| 1 | Hudson, Alton     | [N01773328]   | @altonhudson    | n01773328@humber.ca           | ✅ Completed   | [N/A] |
-| 2 | Bonora, Michael | [N01205927] | @MichaelAB73 | n01205927@humber.ca | [🔥] Completed | [14] |
+| 1 | Hudson, Alton | [N01773328] | @altonhudson | n01773328@humber.ca | ✅ Completed | [N/A] |
+| 2 | Bonora, Michael | [N01205927] | @michaelab73 | n01205927@humber.ca | [🔥] Completed | [14] |
 | 3 | Beyza, Yigitoglu | [N01733699] | @beyzay | n01733699@humber.ca | [🔥] Completed | [N/A] |
 | 4 | Svetlozara, Godzheva | [N01754024] | @svetlozara-godzheva | n01754024@humber.ca | [✅] Completed | [N/A] |
-| 5 | Dugh, Garv | N01763558 | @n01763558GarvDugh | n01763558@humber.ca | ✅ Completed | |
-| 6 | Huynh Khoa, Le    | [N01768983]   | @benjaminkle    | n01768983@humber.ca           | [✅] Completed | [N/A]      |
-| 7 | Anthony, Murphy   | [N00771201]   | @awrmurphy      | mrpn0073@humber.ca            | [🌊] Completed | [N/A]      |
-| 8 | Chaves, Samuel   | [N01771143]   | @Samuuca1      | N01771143@humber.ca            | [⚡] Completed | [Group 7]      |
+| 5 | Dugh, Garv | N01763558 | @n01763558garvdugh | n01763558@humber.ca | ✅ Completed |  |
+| 6 | Huynh Khoa, Le | [N01768983] | @benjaminkle | n01768983@humber.ca | [✅] Completed | [N/A] |
+| 7 | Anthony, Murphy | [N00771201] | @awrmurphy | mrpn0073@humber.ca | [🌊] Completed | [N/A] |
+| 8 | Chaves, Samuel | [N01771143] | @samuuca1 | N01771143@humber.ca | [⚡] Completed | [Group 7] |
 | 9 | Daniel, Gardiner | [N01773473] | @dangardiner90 | n01773473@student.humber.ca | [🔥] Completed | [N/A] |
-| 10 | Scott, Woodhouse  | [N01774081]   | @WoodShack      | n01774081@humber.ca           | [🔥] Completed | [New Group 14] |
-| 11 | Lisa, Tarnow | [N00233140] | @LisaTarn | trnl0207@humber.ca | [✅] Completed | [N/A] |
-| 12 | Samuel, Ilesanmi  | [N01666340]   | @Khrisdain      | N01666340@humber.ca           | 
+| 10 | Scott, Woodhouse | [N01774081] | @woodshack | n01774081@humber.ca | [🔥] Completed | [New Group 14] |
+| 11 | Lisa, Tarnow | [N00233140] | @lisatarn | trnl0207@humber.ca | [✅] Completed | [N/A] |
+| 12 | Samuel, Ilesanmi | [N01666340] | @khrisdain | N01666340@humber.ca |  |  |
 | 13 | Balogun, Jeremiah | [N01752856] | @jbalogun109-arch | N01752856@humber.ca | [🔥] Completed | [Group 12] |
-
-| 14 | Samuel, Ilesanmi | [N01666340] | @Khrisdain | N01666340@humber.ca |
-| 15 | Balogun, Jeremiah | [N01752856] | @jbalogun109-arch | N01752856@humber.ca | [ðŸ”¥] Completed | [Group 12] |
-| 16 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [ðŸ”¥] Completed | [N/A] |
-| 17 | Hudson, Alton | [N01773328] | @altonhudson | n01773328@humber.ca | âœ… Completed | [N/A] |
-| 18 | Bonora, Michael | [N01205927] | @MichaelAB73 | n01205927@humber.ca | [ðŸ”¥] Completed | [14] |
-| 19 | Beyza, Yigitoglu | [N01733699] | @beyzay | n01733699@humber.ca | [ðŸ”¥] Completed | [N/A] |
-| 20 | Svetlozara, Godzheva | [N01754024] | @svetlozara-godzheva | n01754024@humber.ca | [âœ…] Completed | [N/A] |
-| 21 | Dugh, Garv | N01763558 | @n01763558GarvDugh | n01763558@humber.ca | âœ… Completed |  |
-| 22 | Huynh Khoa, Le | [N01768983] | @benjaminkle | n01768983@humber.ca | [âœ…] Completed | [N/A] |
-| 23 | Anthony, Murphy | [N00771201] | @awrmurphy | mrpn0073@humber.ca | [ðŸŒŠ] Completed | [N/A] |
-| 24 | Chaves, Samuel | [N01771143] | @Samuuca1 | N01771143@humber.ca | [âš¡] Completed | [Group 7] |
-| 25 | Daniel, Gardiner | [N01773473] | @dangardiner90 | n01773473@student.humber.ca | [ðŸ”¥] Completed | [N/A] |
-| 26 | Scott, Woodhouse | [N01774081] | @WoodShack | n01774081@humber.ca | [ðŸ”¥] Completed | [New Group 14] |
-| 27 | Lisa, Tarnow | [N00233140] | @LisaTarn | trnl0207@humber.ca | [âœ…] Completed | [N/A] |
-| 28 | Samuel, Ilesanmi | [N01666340] | @Khrisdain | N01666340@humber.ca | [ðŸ”¥] Completed | [Group 12] |
-| 29 | Maheen, Khan | [N01491668] | @maheenkhan55 | n01491668@humber.ca | âœ… Completed | Group 6 |
-| 30 | Mustafa, Gozde | [N01663180] | @msgozde0 | n01663180@humber.ca | [ðŸ”¥] Completed | [N/A] |
-| 31 | Phuoc Huy, Truong | N01741637 | @ryantr10 | N01741637@student.humber.ca | âœ… Completed | [N/A] |
-| 32 | Shirzad, Sana | [N01613186] | @n01613186 | n01613186@humber.ca | [âœ…] Completed | [N/A] |
-| 33 | Tesi, Powell | [N01449510] | @pktesi | [n01449510@humber.ca] | [ðŸ”¥] Completed | [N/A] |
-| 34 | Nico, Sotelo | [N01763903] | @cinoos | N01763903@humber.ca | [ðŸ”¥] Completed | [Group 11] |
-| 35 | (Yen) Vy, Thieu | [N01687477] | @YenVyThieu | n01687477@humber.ca | âœ… Completed | [Group 4] |
-| 36 | Kwanmin, Lee | [N01763695] | @Leekwanmini | n01763695@humber.ca | [ðŸ”¥] Completed | [Group 11] |
-| 37 | Matthew, Walker | [N01748226] | @MWalkerHumber | n01748226@humber.ca | [ðŸ”¥] Completed | [Group 16] |
-| 38 | Kaur, Kirandeep | N01722571 | @Kirandeepkaur8 | n01722571@students.humber.ca | âœ… Completed | N/A |
-| 39 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [ðŸ”¥] Completed | [N/A] |
-| 40 | Hudson, Alton | [N01773328] | @altonhudson | n01773328@humber.ca | âœ… Completed | [N/A] |
-| 41 | Bonora, Michael | [N01205927] | @MichaelAB73 | n01205927@humber.ca | [ðŸ”¥] Completed | [14] |
-| 42 | Beyza, Yigitoglu | [N01733699] | @beyzay | n01733699@humber.ca | [ðŸ”¥] Completed | [N/A] |
-| 43 | Svetlozara, Godzheva | [N01754024] | @svetlozara-godzheva | n01754024@humber.ca | [âœ…] Completed | [N/A] |
-| 44 | Dugh, Garv | N01763558 | @n01763558GarvDugh | n01763558@humber.ca | âœ… Completed |  |
-| 45 | Huynh Khoa, Le | [N01768983] | @benjaminkle | n01768983@humber.ca | [âœ…] Completed | [N/A] |
-| 46 | Anthony, Murphy | [N00771201] | @awrmurphy | mrpn0073@humber.ca | [ðŸŒŠ] Completed | [N/A] |
-| 47 | Chaves, Samuel | [N01771143] | @Samuuca1 | N01771143@humber.ca | [âš¡] Completed | [Group 7] |
-| 48 | Daniel, Gardiner | [N01773473] | @dangardiner90 | n01773473@student.humber.ca | [ðŸ”¥] Completed | [N/A] |
-| 49 | Scott, Woodhouse | [N01774081] | @WoodShack | n01774081@humber.ca | [ðŸ”¥] Completed | [New Group 14] |
-| 50 | Lisa, Tarnow | [N00233140] | @LisaTarn | trnl0207@humber.ca | [âœ…] Completed | [N/A] |
-| 51 | Samuel, Ilesanmi | [N01666340] | @Khrisdain | N01666340@humber.ca | [ðŸ”¥] Completed | [Group 12] |
-| 52 | Raza, Moteen | [N01046201] | @moteenraza07 | N01046201@humber.ca | [ðŸ”¥] Completed | [Group 5] |
-| 53 | Kaur, Kirandeep | N01722571 | @Kirandeepkaur8 | n01722571@students.humber.ca | âœ… Completed | N/A |
-| 54 | Bray-Telesford, Shacquile | N01573423 | @sirphrost | n01573423@humbermail.ca | âœ… Completed | N/A |
-| 55 | Bernardino, Princess Krish Anne | [N01708883] | @pbxcess | N01708883@humber.ca | [❤️‍🔥] Completed | [Group 3] | it |
-| 56 | Singh, Kanwarnoor | [N01718128] | @kanwarnnoorsingh95 | n01718128@humber.ca | [✅] Completed | [Group 5] |
-| 57 | Myhal, Lukas | [N01776178] | @Rococcoon | n01776178@humber.ca | [x] Completed | [Group 01] |
-| 58 | Jodian, Kennedy | [N01358951] | @KennedyJodian | N01358951@students.humber.ca | [🔥] Completed | [Group 12] |
-| 59 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [🔥] Completed | [N/A] |
-| 60 | Hudson, Alton | [N01773328] | @altonhudson | n01773328@humber.ca | ✅ Completed | [N/A] |
-| 61 | Bonora, Michael | [N01205927] | @MichaelAB73 | n01205927@humber.ca | [🔥] Completed | [14] |
-| 62 | Beyza, Yigitoglu | [N01733699] | @beyzay | n01733699@humber.ca | [🔥] Completed | [N/A] |
-| 63 | Svetlozara, Godzheva | [N01754024] | @svetlozara-godzheva | n01754024@humber.ca | [✅] Completed | [N/A] |
-| 64 | Dugh, Garv | N01763558 | @n01763558GarvDugh | n01763558@humber.ca | ✅ Completed |  |
-| 65 | Huynh Khoa, Le | [N01768983] | @benjaminkle | n01768983@humber.ca | [✅] Completed | [N/A] |
-| 66 | Anthony, Murphy | [N00771201] | @awrmurphy | mrpn0073@humber.ca | [🌊] Completed | [N/A] |
-| 67 | Chaves, Samuel | [N01771143] | @Samuuca1 | N01771143@humber.ca | [⚡] Completed | [Group 7] |
-| 68 | Daniel, Gardiner | [N01773473] | @dangardiner90 | n01773473@student.humber.ca | [🔥] Completed | [N/A] |
-| 69 | Scott, Woodhouse | [N01774081] | @WoodShack | n01774081@humber.ca | [🔥] Completed | [New Group 14] |
-| 70 | Lisa, Tarnow | [N00233140] | @LisaTarn | trnl0207@humber.ca | [✅] Completed | [N/A] |
-| 71 | Samuel, Ilesanmi | [N01666340] | @Khrisdain | N01666340@humber.ca | [🔥] Completed | [Group 12] |
-| 72 | Sasmaz, Murat | [N01756120] | @MuratSasmaz | n01756120@humber.ca | [✅] Completed | [N/A] |
-| 73 | Harrak, Nour | [N01154202] | @Nour4896 | n01154202@humber.ca | [🐧] Completed | Group 11 |
-| 74 | Milana, Rzazade | [N01773189] | @Milana-Rzazade | N01773189@humber.ca | Completed | [Group 2] |
-| 75 | Hajiyeva, Shabnam | [N01751971] | @Shabnam-Hajiyeva | n01751971@humber.ca | [✅] Completed | [Group 5] |
-| 76 | Katelyn, Thomas | [N01102409] | @ktho12 | N01102409@humber.ca | [🔥] Completed | [Group 3] |
-| 77 | Abdulrhman, Daas | [N01752876] | @she5alwadi | abdulrhman.daas@humer.ca |
-| 78 | Shingchi, Lui | [N01578848] | @lsc0991 | n01578848@students.humber.ca | [✅] Completed |  |
-| 79 | Forrest, Amber | [N01754701] | @amber4est | n01754701@humber.ca | [✅] Completed | [N/A] |
+| 14 | Maheen, Khan | [N01491668] | @maheenkhan55 | n01491668@humber.ca | ✅ Completed | Group 6 |
+| 15 | Mustafa, Gozde | [N01663180] | @msgozde0 | n01663180@humber.ca | [🔥] Completed | [N/A] |
+| 16 | Phuoc Huy, Truong | N01741637 | @ryantr10 | N01741637@student.humber.ca | ✅ Completed | [N/A] |
+| 17 | Shirzad, Sana | [N01613186] | @n01613186 | n01613186@humber.ca | [✅] Completed | [N/A] |
+| 18 | Tesi, Powell | [N01449510] | @pktesi | [n01449510@humber.ca] | [🔥] Completed | [N/A] |
+| 19 | Nico, Sotelo | [N01763903] | @cinoos | N01763903@humber.ca | [🔥] Completed | [Group 11] |
+| 20 | (Yen) Vy, Thieu | [N01687477] | @yenvythieu | n01687477@humber.ca | ✅ Completed | [Group 4] |
+| 21 | Kwanmin, Lee | [N01763695] | @leekwanmini | n01763695@humber.ca | [🔥] Completed | [Group 11] |
+| 22 | Matthew, Walker | [N01748226] | @mwalkerhumber | n01748226@humber.ca | [🔥] Completed | [Group 16] |
+| 23 | Kaur, Kirandeep | N01722571 | @kirandeepkaur8 | n01722571@students.humber.ca | ✅ Completed | N/A |
+| 24 | Raza, Moteen | [N01046201] | @moteenraza07 | N01046201@humber.ca | [🔥] Completed | [Group 5] |
+| 25 | Bray-Telesford, Shacquile | N01573423 | @sirphrost | n01573423@humbermail.ca | ✅ Completed | N/A |
+| 26 | Bernardino, Princess Krish Anne | [N01708883] | @pbxcess | N01708883@humber.ca | [🔥] Completed | [Group 3] |
+| 27 | Singh, Kanwarnoor | [N01718128] | @kanwarnnoorsingh95 | n01718128@humber.ca | [✅] Completed | [Group 5] |
+| 28 | Myhal, Lukas | [N01776178] | @rococcoon | n01776178@humber.ca | [x] Completed | [Group 01] |
+| 29 | Jodian, Kennedy | [N01358951] | @kennedyjodian | N01358951@students.humber.ca | [🔥] Completed | [Group 12] |
+| 30 | Sasmaz, Murat | [N01756120] | @muratsasmaz | n01756120@humber.ca | [✅] Completed | [N/A] |
+| 31 | Harrak, Nour | [N01154202] | @nour4896 | n01154202@humber.ca | [🐧] Completed | Group 11 |
+| 32 | Milana, Rzazade | [N01773189] | @milana-rzazade | N01773189@humber.ca | Completed | [Group 2] |
+| 33 | Hajiyeva, Shabnam | [N01751971] | @shabnam-hajiyeva | n01751971@humber.ca | [✅] Completed | [Group 5] |
+| 34 | Katelyn, Thomas | [N01102409] | @ktho12 | N01102409@humber.ca | [🔥] Completed | [Group 3] |
+| 35 | Abdulrhman, Daas | [N01752876] | @she5alwadi | abdulrhman.daas@humer.ca |  |  |
+| 36 | Shingchi, Lui | [N01578848] | @lsc0991 | n01578848@students.humber.ca | [✅] Completed |  |
+| 37 | Forrest, Amber | [N01754701] | @amber4est | n01754701@humber.ca | [✅] Completed | [N/A] |
