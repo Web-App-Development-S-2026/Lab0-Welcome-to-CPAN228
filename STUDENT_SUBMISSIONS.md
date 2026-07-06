@@ -125,3 +125,5 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 12 | Samuel, Ilesanmi  | [N01666340]   | @Khrisdain      | N01666340@humber.ca           | 
 | 13 | Balogun, Jeremiah | [N01752856] | @jbalogun109-arch | N01752856@humber.ca | [🔥] Completed | [Group 12] |
 
+| 14 | Samuel, Ilesanmi | [N01666340] | @Khrisdain | N01666340@humber.ca |
+| 15 | Balogun, Jeremiah | [N01752856] | @jbalogun109-arch | N01752856@humber.ca | [ðŸ”¥] Completed | [Group 12] |
