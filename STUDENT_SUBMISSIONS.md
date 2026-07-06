@@ -190,3 +190,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 76 | Katelyn, Thomas | [N01102409] | @ktho12 | N01102409@humber.ca | [🔥] Completed | [Group 3] |
 | 77 | Abdulrhman, Daas | [N01752876] | @she5alwadi | abdulrhman.daas@humer.ca |
 | 78 | Shingchi, Lui | [N01578848] | @lsc0991 | n01578848@students.humber.ca | [✅] Completed |  |
+| 79 | Forrest, Amber | [N01754701] | @amber4est | n01754701@humber.ca | [✅] Completed | [N/A] |
