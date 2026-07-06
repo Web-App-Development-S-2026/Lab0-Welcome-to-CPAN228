@@ -144,3 +144,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 30 | Mustafa, Gozde | [N01663180] | @msgozde0 | n01663180@humber.ca | [ðŸ”¥] Completed | [N/A] |
 | 31 | Phuoc Huy, Truong | N01741637 | @ryantr10 | N01741637@student.humber.ca | âœ… Completed | [N/A] |
 | 32 | Shirzad, Sana | [N01613186] | @n01613186 | n01613186@humber.ca | [âœ…] Completed | [N/A] |
+| 33 | Tesi, Powell | [N01449510] | @pktesi | [n01449510@humber.ca] | [ðŸ”¥] Completed | [N/A] |
