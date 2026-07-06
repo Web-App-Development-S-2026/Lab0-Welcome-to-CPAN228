@@ -149,3 +149,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 35 | (Yen) Vy, Thieu | [N01687477] | @YenVyThieu | n01687477@humber.ca | âœ… Completed | [Group 4] |
 | 36 | Kwanmin, Lee | [N01763695] | @Leekwanmini | n01763695@humber.ca | [ðŸ”¥] Completed | [Group 11] |
 | 37 | Matthew, Walker | [N01748226] | @MWalkerHumber | n01748226@humber.ca | [ðŸ”¥] Completed | [Group 16] |
+| 38 | Kaur, Kirandeep | N01722571 | @Kirandeepkaur8 | n01722571@students.humber.ca | âœ… Completed | N/A |
