@@ -167,3 +167,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 53 | Kaur, Kirandeep | N01722571 | @Kirandeepkaur8 | n01722571@students.humber.ca | âœ… Completed | N/A |
 | 54 | Bray-Telesford, Shacquile | N01573423 | @sirphrost | n01573423@humbermail.ca | âœ… Completed | N/A |
 | 55 | Bernardino, Princess Krish Anne | [N01708883] | @pbxcess | N01708883@humber.ca | [❤️‍🔥] Completed | [Group 3] | it |
+| 56 | Singh, Kanwarnoor | [N01718128] | @kanwarnnoorsingh95 | n01718128@humber.ca | [✅] Completed | [Group 5] |
