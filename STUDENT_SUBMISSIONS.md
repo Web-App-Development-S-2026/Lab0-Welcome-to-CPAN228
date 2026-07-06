@@ -188,3 +188,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 74 | Milana, Rzazade | [N01773189] | @Milana-Rzazade | N01773189@humber.ca | Completed | [Group 2] |
 | 75 | Hajiyeva, Shabnam | [N01751971] | @Shabnam-Hajiyeva | n01751971@humber.ca | [✅] Completed | [Group 5] |
 | 76 | Katelyn, Thomas | [N01102409] | @ktho12 | N01102409@humber.ca | [🔥] Completed | [Group 3] |
+| 77 | Abdulrhman, Daas | [N01752876] | @she5alwadi | abdulrhman.daas@humer.ca |
