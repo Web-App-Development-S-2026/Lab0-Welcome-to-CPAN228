@@ -142,3 +142,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 28 | Samuel, Ilesanmi | [N01666340] | @Khrisdain | N01666340@humber.ca | [ðŸ”¥] Completed | [Group 12] |
 | 29 | Maheen, Khan | [N01491668] | @maheenkhan55 | n01491668@humber.ca | âœ… Completed | Group 6 |
 | 30 | Mustafa, Gozde | [N01663180] | @msgozde0 | n01663180@humber.ca | [ðŸ”¥] Completed | [N/A] |
+| 31 | Phuoc Huy, Truong | N01741637 | @ryantr10 | N01741637@student.humber.ca | âœ… Completed | [N/A] |
