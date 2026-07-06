@@ -165,3 +165,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 51 | Samuel, Ilesanmi | [N01666340] | @Khrisdain | N01666340@humber.ca | [ðŸ”¥] Completed | [Group 12] |
 | 52 | Raza, Moteen | [N01046201] | @moteenraza07 | N01046201@humber.ca | [ðŸ”¥] Completed | [Group 5] |
 | 53 | Kaur, Kirandeep | N01722571 | @Kirandeepkaur8 | n01722571@students.humber.ca | âœ… Completed | N/A |
+| 54 | Bray-Telesford, Shacquile | N01573423 | @sirphrost | n01573423@humbermail.ca | âœ… Completed | N/A |
