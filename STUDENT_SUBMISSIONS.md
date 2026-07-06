@@ -147,3 +147,4 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 33 | Tesi, Powell | [N01449510] | @pktesi | [n01449510@humber.ca] | [ðŸ”¥] Completed | [N/A] |
 | 34 | Nico, Sotelo | [N01763903] | @cinoos | N01763903@humber.ca | [ðŸ”¥] Completed | [Group 11] |
 | 35 | (Yen) Vy, Thieu | [N01687477] | @YenVyThieu | n01687477@humber.ca | âœ… Completed | [Group 4] |
+| 36 | Kwanmin, Lee | [N01763695] | @Leekwanmini | n01763695@humber.ca | [ðŸ”¥] Completed | [Group 11] |
