@@ -150,3 +150,17 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 36 | Kwanmin, Lee | [N01763695] | @Leekwanmini | n01763695@humber.ca | [ðŸ”¥] Completed | [Group 11] |
 | 37 | Matthew, Walker | [N01748226] | @MWalkerHumber | n01748226@humber.ca | [ðŸ”¥] Completed | [Group 16] |
 | 38 | Kaur, Kirandeep | N01722571 | @Kirandeepkaur8 | n01722571@students.humber.ca | âœ… Completed | N/A |
+| 39 | Christin, Mugisha | [N0123456789] | @christinhumber | ly-christin.mugisha@humber.ca | [ðŸ”¥] Completed | [N/A] |
+| 40 | Hudson, Alton | [N01773328] | @altonhudson | n01773328@humber.ca | âœ… Completed | [N/A] |
+| 41 | Bonora, Michael | [N01205927] | @MichaelAB73 | n01205927@humber.ca | [ðŸ”¥] Completed | [14] |
+| 42 | Beyza, Yigitoglu | [N01733699] | @beyzay | n01733699@humber.ca | [ðŸ”¥] Completed | [N/A] |
+| 43 | Svetlozara, Godzheva | [N01754024] | @svetlozara-godzheva | n01754024@humber.ca | [âœ…] Completed | [N/A] |
+| 44 | Dugh, Garv | N01763558 | @n01763558GarvDugh | n01763558@humber.ca | âœ… Completed |  |
+| 45 | Huynh Khoa, Le | [N01768983] | @benjaminkle | n01768983@humber.ca | [âœ…] Completed | [N/A] |
+| 46 | Anthony, Murphy | [N00771201] | @awrmurphy | mrpn0073@humber.ca | [ðŸŒŠ] Completed | [N/A] |
+| 47 | Chaves, Samuel | [N01771143] | @Samuuca1 | N01771143@humber.ca | [âš¡] Completed | [Group 7] |
+| 48 | Daniel, Gardiner | [N01773473] | @dangardiner90 | n01773473@student.humber.ca | [ðŸ”¥] Completed | [N/A] |
+| 49 | Scott, Woodhouse | [N01774081] | @WoodShack | n01774081@humber.ca | [ðŸ”¥] Completed | [New Group 14] |
+| 50 | Lisa, Tarnow | [N00233140] | @LisaTarn | trnl0207@humber.ca | [âœ…] Completed | [N/A] |
+| 51 | Samuel, Ilesanmi | [N01666340] | @Khrisdain | N01666340@humber.ca | [ðŸ”¥] Completed | [Group 12] |
+| 52 | Raza, Moteen | [N01046201] | @moteenraza07 | N01046201@humber.ca | [ðŸ”¥] Completed | [Group 5] |
