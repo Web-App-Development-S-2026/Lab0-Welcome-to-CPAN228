@@ -7,17 +7,17 @@ This is a starter template for your lab assignments. Follow the GitHub setup bel
 
 ### GitHub Setup
 #### Step 1: Fork and Clone
-1. Go to the [repository on GitHub](https://github.com/ChristinHumber/IntroToDataStructure_Lab).
+1. Go to the [repository on GitHub](https://github.com/ChristinHumber/CPAN211_Lab8).
 2. Click the **Fork** button in the top-right corner (**VERY IMPORTANT!!!!**).
 3. This creates your own copy of the project.
 4. Clone Your Fork:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/IntroToDataStructure_Lab.git
-   cd IntroToDataStructure_Lab
+   git clone https://github.com/YOUR-USERNAME/CPAN211_Lab8.git
+   cd CPAN211_Lab8
    ```
 5. Add Upstream Remote:
    ```bash
-   git remote add upstream https://github.com/ChristinHumber/IntroToDataStructure_Lab.git
+   git remote add upstream https://github.com/ChristinHumber/CPAN211_Lab8.git
    ```
 6. Pull Latest Changes:
    ```bash
@@ -30,7 +30,7 @@ This is a starter template for your lab assignments. Follow the GitHub setup bel
    *Replace `yourname` with your actual name (e.g., `feature/lab1-john-doe` or `feature/lab-john-doe`).*
 
 #### Step 2: Open a Pull Request
-1. Go to the upstream repository at [ChristinHumber/IntroToDataStructure_Lab](https://github.com/ChristinHumber/IntroToDataStructure_Lab).
+1. Go to the upstream repository at [ChristinHumber/CPAN211_Lab8](https://github.com/ChristinHumber/CPAN211_Lab8).
 2. You should see a prompt banner saying "Compare & pull request" for your pushed branch. Click it.
 3. If you don't see the banner:
    - Go to your GitHub fork page.
