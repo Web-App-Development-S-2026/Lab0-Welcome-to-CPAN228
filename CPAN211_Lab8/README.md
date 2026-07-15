@@ -6,32 +6,42 @@
 This is a starter template for your lab assignments. Follow the GitHub setup below before beginning your work.
 
 ### GitHub Setup
-#### Fork the Repository
-1. Go to the repository on GitHub.
+#### Step 1: Fork and Clone
+1. Go to the [repository on GitHub](https://github.com/ChristinHumber/IntroToDataStructure_Lab).
 2. Click the **Fork** button in the top-right corner (**VERY IMPORTANT!!!!**).
 3. This creates your own copy of the project.
+4. Clone Your Fork:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/IntroToDataStructure_Lab.git
+   cd IntroToDataStructure_Lab
+   ```
+5. Add Upstream Remote:
+   ```bash
+   git remote add upstream https://github.com/ChristinHumber/IntroToDataStructure_Lab.git
+   ```
+6. Pull Latest Changes:
+   ```bash
+   git pull upstream main
+   ```
+7. Create a Feature Branch:
+   ```bash
+   git checkout -b feature/lab-yourname
+   ```
+   *Replace `yourname` with your actual name (e.g., `feature/lab1-john-doe` or `feature/lab-john-doe`).*
 
-#### Clone Your Fork
-```bash
-git clone https://github.com/YOUR-USERNAME/IntroToDataStructure_Lab.git
-cd IntroToDataStructure_Lab
-```
+#### Step 2: Open a Pull Request
+1. Go to the upstream repository at [ChristinHumber/IntroToDataStructure_Lab](https://github.com/ChristinHumber/IntroToDataStructure_Lab).
+2. You should see a prompt banner saying "Compare & pull request" for your pushed branch. Click it.
+3. If you don't see the banner:
+   - Go to your GitHub fork page.
+   - Switch to your feature branch using the branch dropdown menu.
+   - Click **Contribute** and then select **Open pull request**.
+4. Verify the base repository is `ChristinHumber/IntroToDataStructure_Lab` and the base branch is `main`.
+5. Set the title of your pull request to: `Lab Submission - [Your Name]` (e.g., `Lab Submission - John Doe`).
+6. Click **Create pull request** to complete the submission.
 
-#### Add Upstream Remote
-```bash
-git remote add upstream https://github.com/ChristinHumber/IntroToDataStructure_Lab.git
-```
-
-#### Pull Latest Changes
-```bash
-git pull upstream main
-```
-
-#### Create a Feature Branch
-```bash
-git checkout -b feature/lab-yourname
-```
-*Replace `yourname` with your actual name (e.g., `feature/lab1-john-doe` or `feature/lab-john-doe`).*
+#### Additional Requirements
+* **Code Verification:** Make sure all compilation errors are fixed and your code runs successfully before submitting.
 
 ---
 
@@ -60,4 +70,3 @@ The following table illustrates how the stack changes at each step of scanning t
 | **3** | `+` | Pop, Pop, Compute, Push | `[3]` | Pop `2` and `1`. Compute `1 + 2 = 3`. Push `3` back. |
 | **4** | `3` | Push | `[3, 3]` | Push operand `3` onto stack. |
 | **5** | `*` | Pop, Pop, Compute, Push | `[9]` | Pop `3` and `3`. Compute `3 * 3 = 9`. Push `9` back. |
-
