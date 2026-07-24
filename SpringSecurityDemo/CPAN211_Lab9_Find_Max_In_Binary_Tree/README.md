@@ -17,12 +17,12 @@ Follow the GitHub setup below before beginning your work.
 2. Click the **Fork** button in the top-right corner (VERY IMPORTANT!!!!). This creates your own copy of the project.
 3. **Clone Your Fork:**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/CPAN211_Lab8.git
-   cd CPAN211_Lab8
+   git clone https://github.com/YOUR-USERNAME/CPAN211_Lab9.git
+   cd CPAN211_Lab9
    ```
 4. **Add Upstream Remote:**
    ```bash
-   git remote add upstream https://github.com/ChristinHumber/CPAN211_Lab8.git
+   git remote add upstream https://github.com/ChristinHumber/CPAN211_Lab9.git
    ```
 5. **Pull Latest Changes:**
    ```bash
@@ -35,13 +35,13 @@ Follow the GitHub setup below before beginning your work.
    *Replace `yourname` with your actual name (e.g., `feature/lab1-john-doe` or `feature/lab-john-doe`).*
 
 #### Step 2: Open a Pull Request
-1. Go to the upstream repository at `ChristinHumber/CPAN211_Lab8`.
+1. Go to the upstream repository at `ChristinHumber/CPAN211_Lab9`.
 2. You should see a prompt banner saying **"Compare & pull request"** for your pushed branch. Click it.
 3. If you don't see the banner:
    * Go to your GitHub fork page.
    * Switch to your feature branch using the branch dropdown menu.
    * Click **Contribute** and then select **Open pull request**.
-4. Verify the base repository is `ChristinHumber/IntroToDataStructure_Lab` and the base branch is `main`.
+4. Verify the base repository is `ChristinHumber/CPAN211_Lab9` and the base branch is `main`.
 5. Set the title of your pull request to: `Lab Submission - [Your Name]` (e.g., `Lab Submission - John Doe`).
 6. Click **Create pull request** to complete the submission.
 
